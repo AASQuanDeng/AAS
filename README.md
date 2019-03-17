@@ -1,4 +1,4 @@
 # AAS
-Goto "v1.1.3" Brunch to get C++ AAS
+Goto "v1.1.3" Branch to get C++ AAS
 
-Goto "Scratch-AAS" Brunch to get Scratch AAS
+Goto "Scratch-AAS" Branch to get Scratch AAS
