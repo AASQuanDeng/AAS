@@ -8,3 +8,5 @@
 
 ### What's new?
 Nothing NEW!
+
+© Copy Wrong 2019  全等三角形≌明月几时 No Right Reserved 
