@@ -178,6 +178,8 @@ Switcher LTS 2019 年夏季创意者更新
 解决窗口最大化重新出现的问题  
 增加安全性，允许以启动参数的方式从外部启动 Updater 以进入恢复模式  
 Updater 整合，升级至 2.2，废除开始菜单内的“切换服务器”  
+Updater 新增附加更新的名称  
+Switcher 主程序现已支持更长的 AAS 前缀  
 使用 Visual Studio 编译，Windows 窗体应用。  
 October 4, 2019  
 -----------------
